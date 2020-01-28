@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fifteenmania.github.io/TimeSeriesCollaborated/sitemap.xml
