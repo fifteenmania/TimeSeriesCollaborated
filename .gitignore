@@ -4,6 +4,8 @@
 .LSOverride
 
 
+# VScode
+.vscode/*
 
 # Thumbnails
 ._*
